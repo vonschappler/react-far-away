@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-far-away/static/css/main.cb23755d.css",
+    "main.js": "/react-far-away/static/js/main.c2a34871.js",
+    "index.html": "/react-far-away/index.html",
+    "main.cb23755d.css.map": "/react-far-away/static/css/main.cb23755d.css.map",
+    "main.c2a34871.js.map": "/react-far-away/static/js/main.c2a34871.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb23755d.css",
+    "static/js/main.c2a34871.js"
+  ]
+}
